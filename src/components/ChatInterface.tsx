@@ -118,7 +118,7 @@ export default function ChatInterface() {
         </div>
         <div>
           <h1 className="text-sm font-semibold text-foreground">AI Chat</h1>
-          <p className="text-xs text-muted-foreground">Powered by Llama 3.1 · Free</p>
+          <p className="text-xs text-muted-foreground">Powered by Gemini 3 Flash</p>
         </div>
       </header>
 
@@ -131,7 +131,7 @@ export default function ChatInterface() {
             </div>
             <div className="text-center max-w-md">
               <h2 className="text-lg font-semibold text-foreground mb-1">How can I help?</h2>
-              <p className="text-sm text-muted-foreground">Ask me anything. I'm running on Llama 3.1 8B via OpenRouter.</p>
+              <p className="text-sm text-muted-foreground">Ask me anything. Powered by Gemini 3 Flash.</p>
             </div>
           </div>
         )}
